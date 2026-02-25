@@ -156,7 +156,7 @@ CREATE TABLE students (
 
 ## 👨‍💻 Author
 
-([@MonishDoss](https://github.com/MonishDoss).
+[@MonishDoss](https://github.com/MonishDoss).
 
 ---
 
